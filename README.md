@@ -22,6 +22,8 @@ You have two options to run the exercises in this repo
 
 ### Option 1: Github codespaces (Recommended)
 
+:exclamation: Codespaces has limited free tier per month.
+
 Steps:
 
 1. Create [Github codespaces with this link](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=841408842&ref=main&geo=UsEast).
